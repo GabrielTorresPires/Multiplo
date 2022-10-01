@@ -7,7 +7,7 @@ Console.WriteLine("------------------");
 Console.Write("Digite o primeiro número:");
 n1 = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Digite o segundo número:");
+Console.Write("Avaliar se é múltiplo de:");
 n2 = Convert.ToInt32(Console.ReadLine());
 
 resto = n1 % n2;
